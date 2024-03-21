@@ -1,0 +1,542 @@
+﻿  main.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58160,1):
+  see previous definition of 'DXGI_STATUS_OCCLUDED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58169,1):
+  see previous definition of 'DXGI_STATUS_CLIPPED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58178,1):
+  see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58187,1):
+  see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58196,1):
+  see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58205,1):
+  see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58214,1):
+  see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58229,1):
+  see previous definition of 'DXGI_ERROR_INVALID_CALL'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58238,1):
+  see previous definition of 'DXGI_ERROR_NOT_FOUND'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58247,1):
+  see previous definition of 'DXGI_ERROR_MORE_DATA'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58256,1):
+  see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58265,1):
+  see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58274,1):
+  see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58284,1):
+  see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58293,1):
+  see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58303,1):
+  see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58312,1):
+  see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58322,1):
+  see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58331,1):
+  see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58340,1):
+  see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58350,1):
+  see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58359,1):
+  see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58665,1):
+  see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,1): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58674,1):
+  see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58684,1):
+  see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,1): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58693,1):
+  see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58641,1):
+  see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58650,1):
+  see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+  
+C:\Users\andre\OneDrive\Desktop\Project1\includes.hpp(41,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Vector.hpp(167,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Vector.hpp(168,11): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(311,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(400,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(401,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(414,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(414,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(414,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(414,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(415,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(415,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(415,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(415,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(416,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(416,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(416,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(416,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(417,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(417,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(417,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(417,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(418,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(418,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(418,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(418,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(419,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(419,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(419,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(419,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(420,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(420,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(420,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(420,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(421,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(421,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(421,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(421,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(446,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(447,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(448,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(449,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(451,173): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(451,156): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(451,139): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(451,122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(451,184): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(451,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(451,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(451,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(451,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(459,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(460,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(461,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(462,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(496,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(497,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(501,155): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(501,138): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(501,121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(501,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(501,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\Renderer.hpp(501,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\includes.hpp(154,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\includes.hpp(157,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\target.hpp(2,1): warning C4005: 'M_PI': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Users\andre\OneDrive\Desktop\Project1\includes.hpp(62,1):
+  see previous definition of 'M_PI'
+  
+C:\Users\andre\OneDrive\Desktop\Project1\target.hpp(46,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\target.hpp(47,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\target.hpp(182,46): warning C4838: conversion from 'double' to 'const std::complex<float>' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\target.hpp(182,46): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\target.hpp(182,50): warning C4838: conversion from 'double' to 'const std::complex<float>' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\target.hpp(182,50): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\target.hpp(182,54): warning C4838: conversion from 'double' to 'const std::complex<float>' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\target.hpp(182,54): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\target.hpp(182,58): warning C4838: conversion from 'double' to 'const std::complex<float>' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\target.hpp(182,58): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\target.hpp(182,62): warning C4838: conversion from 'double' to 'const std::complex<float>' requires a narrowing conversion
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\target.hpp(182,62): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\target.hpp(190,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\target.hpp(191,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\target.hpp(192,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\candy.h(105,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\candy.h(105,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\candy.h(105,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\candy.h(134,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\candy.h(134,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\candy.h(134,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\candy.h(165,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\candy.h(165,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\candy.h(165,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\candy.h(202,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\candy.h(202,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\candy.h(202,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(45,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(52,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(88,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(204,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(284,41): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(284,37): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(299,47): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(475,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(478,51): warning C4804: '<': unsafe use of type 'bool' in operation
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(481,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(481,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(483,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(483,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(486,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(493,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(493,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(495,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(495,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(499,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(503,109): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(503,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(503,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(503,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(508,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(508,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(517,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(517,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(519,116): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(519,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(521,119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(521,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(523,115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(523,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(539,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(539,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(541,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(541,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\andre\OneDrive\Desktop\Project1\apex.hpp(557,38): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+  Generating code
+  390 of 2518 functions (15.5%) were compiled, the rest were copied from previous compilation.
+    73 functions were new in current compilation
+    82 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> C:\Users\andre\OneDrive\Desktop\Project1\x64\Release\Project1.exe
